@@ -1,0 +1,9 @@
+ 2079  git add 1.c
+ 2080  gic commit -m "add 1.c" 1.c 
+ 2082  git remote add origin git@github.com:xiangyugong/test.git
+ 2087  git remote add origin git@github.com:xiangyugong/test.git
+git remote rm origin 
+ 2088  git push origin master
+ 2089  git push -u origin master
+ 2090  git pull origin master 
+
